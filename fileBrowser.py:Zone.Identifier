@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://172.31.100.180:8888/lab
+HostUrl=http://172.31.100.180:8888/nbconvert/script/home/joe/work/QA/fileBrowser.ipynb?download=true
